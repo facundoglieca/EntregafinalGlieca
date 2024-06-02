@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "LINEA MOLDEADA",
+        "price": 233500,
+        "image":"./img/lineamoldeada.png"
+    },
+    {
+        "id": 2,
+        "name": "LINEA NATIVA",
+        "price":  257500,
+        "image":"./img/lineanativa.png"
+    }, 
+    {
+        "id": 3,
+        "name": "LINEA TEKS LISO NEVADA",
+        "price":  323500,
+        "image":"./img/modelotekslisonevada.png"
+    },
+    {
+        "id": 4,
+        "name": "LINEA ENCHAPADA",
+        "price": 233700,
+        "image":"./img/lineaenchapada.png"
+    }
+
+
+
+ 
+]
